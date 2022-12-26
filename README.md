@@ -76,3 +76,5 @@ bash setup.sh
 - **Manjaro**
 - **Fedora**
 - **Termux**
+
+<!-- End -->
